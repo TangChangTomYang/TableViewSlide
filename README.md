@@ -1,5 +1,5 @@
 # TableViewSlide
-仿微信, tableView 侧滑, 解决了听云SDK
+仿微信, tableView 侧滑, 解决了听云SDK 集成崩溃的问题
 
 
 
